@@ -85,5 +85,9 @@ https://www.linkedin.com/in/ankit-patidar-350308305/
 
 https://medium.com/@ankupatel279
 
+> This repository is originally forked from  
+> [InfoSecWarrior/Linux-Essentials](https://github.com/InfoSecWarrior/Linux-Essentials).  
+> All credits to the original author.
+
 ## Thanks to [InfoSecWarrior](https://github.com/InfoSecWarrior) for the original Linux content.
 

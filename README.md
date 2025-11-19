@@ -84,5 +84,6 @@ If you want to improve content or add more Linux topics, feel free to contribute
 https://www.linkedin.com/in/ankit-patidar-350308305/
 
 https://medium.com/@ankupatel279
-Thanks to [InfoSecWarrior](https://github.com/InfoSecWarrior) for the original Linux content.
+
+## Thanks to [InfoSecWarrior](https://github.com/InfoSecWarrior) for the original Linux content.
 
